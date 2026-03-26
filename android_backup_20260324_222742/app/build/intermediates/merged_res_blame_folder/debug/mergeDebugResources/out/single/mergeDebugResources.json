@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.vpnproxy.app-debug-33:/menu_log_menu.xml.flat",
+        "source": "com.vpnproxy.app-main-35:/menu/log_menu.xml"
+    },
+    {
+        "merged": "com.vpnproxy.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.vpnproxy.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.vpnproxy.app-debug-33:/drawable_log_count_bg.xml.flat",
+        "source": "com.vpnproxy.app-main-35:/drawable/log_count_bg.xml"
+    },
+    {
+        "merged": "com.vpnproxy.app-debug-33:/raw_ca.crt.flat",
+        "source": "com.vpnproxy.app-main-35:/raw/ca.crt"
+    },
+    {
+        "merged": "com.vpnproxy.app-debug-33:/drawable_ic_stat_vpn.xml.flat",
+        "source": "com.vpnproxy.app-main-35:/drawable/ic_stat_vpn.xml"
+    }
+]

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VpnProxy</string>
+    <string name="channel_proxy">VPN代理服务</string>
+</resources>

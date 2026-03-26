@@ -1,0 +1,3 @@
+# 服务端 + Windows 客户端（合并安装）
+-r server/requirements.txt
+-r windows_client/requirements.txt

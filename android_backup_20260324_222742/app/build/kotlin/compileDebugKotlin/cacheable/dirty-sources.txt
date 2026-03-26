@@ -1,0 +1,11 @@
+E:\work\vpn-proxy-client\android\app\src\main\java\com\vpnproxy\app\backup_20260324_222051\DiagnosticActivity.kt
+E:\work\vpn-proxy-client\android\app\src\main\java\com\vpnproxy\app\TunnelSession.kt
+E:\work\vpn-proxy-client\android\app\src\main\java\com\vpnproxy\app\backup_20260324_222051\EnhancedTunVpnService.kt
+E:\work\vpn-proxy-client\android\app\src\main\java\com\vpnproxy\app\backup_20260324_222051\SelectableLogActivity.kt
+E:\work\vpn-proxy-client\android\app\src\main\java\com\vpnproxy\app\MainActivity.kt
+E:\work\vpn-proxy-client\android\app\src\main\java\com\vpnproxy\app\backup_20260324_222051\LogUtils.kt
+E:\work\vpn-proxy-client\android\app\src\main\java\com\vpnproxy\app\backup\SelectableLogUtils.kt
+E:\work\vpn-proxy-client\android\app\src\main\java\com\vpnproxy\app\backup_20260324_222051\MainActivity_addon.kt
+E:\work\vpn-proxy-client\android\app\src\main\java\com\vpnproxy\app\backup_20260324_222051\EnhancedMainActivity.kt
+E:\work\vpn-proxy-client\android\app\src\main\java\com\vpnproxy\app\TunVpnService.kt
+E:\work\vpn-proxy-client\android\app\src\main\java\com\vpnproxy\app\Socks5Server.kt

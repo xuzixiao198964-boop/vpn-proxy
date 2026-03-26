@@ -1,0 +1,26 @@
+﻿=== 构建修复步骤 ===
+
+问题: Gradle构建失败
+原因: 可能是Java版本不匹配或依赖问题
+
+修复步骤:
+1. 确保Java 17已安装
+2. 清理Gradle缓存
+3. 重新同步项目
+4. 尝试构建
+
+立即执行:
+cd E:\work\vpn-proxy-client\android
+.\gradlew.bat clean
+.\gradlew.bat assembleDebug
+
+如果失败:
+1. 删除 .gradle 目录
+2. 删除 build 目录
+3. 重新运行
+
+构建成功后:
+1. 修改代码移除通知栏错误日志
+2. 重新构建APK
+3. 在模拟器测试
+4. 上传到服务器

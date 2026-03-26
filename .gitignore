@@ -1,0 +1,5 @@
+# 若后续把凭据单独放到本地文件，勿提交
+.env
+*.secrets
+*.local
+android/local.properties
