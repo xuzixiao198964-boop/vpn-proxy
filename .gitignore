@@ -3,3 +3,32 @@
 *.secrets
 *.local
 android/local.properties
+
+# 大文件和大目录
+temp/
+dist/*.apk
+downloaded_apk/
+*.zip
+*.tar
+*.gz
+
+# 构建产物
+android/.gradle/
+android/build/
+android/app/build/
+android_backup_20260324_222742/.gradle/
+android_backup_20260324_222742/build/
+android_backup_20260324_222742/app/build/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+logs/
+
+# 开发环境文件
+.vscode/
+.idea/
+*.iml
